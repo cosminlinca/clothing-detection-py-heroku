@@ -1,0 +1,1856 @@
+tests/p8.jpg
+16/11/2021 22:42:25
+	+ Label: skirt, Conf: 0.99082
+*****************************************
+tests/p11.jpg
+16/11/2021 22:43:47
+	+ Label: skirt, Conf: 0.86071
+	+ Label: vest, Conf: 0.91323
+	+ Label: nike, Conf: 0.62495
+*****************************************
+tests/p14.jpg
+16/11/2021 22:44:18
+	+ Label: puma, Conf: 0.60077
+*****************************************
+tests/test06.jpg
+16/11/2021 22:44:29
+*****************************************
+tests/0001test.jpg
+16/11/2021 22:44:38
+	+ Label: short sleeve top, Conf: 0.99652
+	+ Label: adidas, Conf: 0.87995
+*****************************************
+tests/adidas_t.jpg
+16/11/2021 22:45:26
+	+ Label: trousers, Conf: 0.89782
+	+ Label: short sleeve top, Conf: 0.96143
+*****************************************
+tests/amazon.jpg
+16/11/2021 22:45:53
+	+ Label: trousers, Conf: 0.99083
+*****************************************
+tests/polera.jpg
+16/11/2021 22:54:22
+	+ Label: short sleeve top, Conf: 0.86932
+*****************************************
+tests/p11.jpg
+17/11/2021 08:59:41
+	+ Label: skirt, Conf: 0.86071
+	+ Label: vest, Conf: 0.91323
+	+ Label: nike, Conf: 0.62495
+*****************************************
+tests/adidas_t.jpg
+17/11/2021 09:01:46
+	+ Label: trousers, Conf: 0.89782
+	+ Label: short sleeve top, Conf: 0.96143
+*****************************************
+tests/0001test.jpg
+17/11/2021 09:04:44
+	+ Label: short sleeve top, Conf: 0.99652
+	+ Label: adidas, Conf: 0.87995
+*****************************************
+tests/test07.jpg
+17/11/2021 09:05:38
+	+ Label: long sleeve top, Conf: 0.89025
+	+ Label: under armour, Conf: 0.86501
+*****************************************
+tests/p6.jpg
+17/11/2021 09:06:13
+	+ Label: trousers, Conf: 0.90228
+	+ Label: short sleeve top, Conf: 0.98781
+*****************************************
+tests/p20.jpg
+17/11/2021 09:07:15
+	+ Label: trousers, Conf: 0.96939
+*****************************************
+tests/test07.jpg
+17/11/2021 09:25:01
+	+ Label: long sleeve top, Conf: 0.89025
+	+ Label: under armour, Conf: 0.86501
+*****************************************
+tests/0001test.jpg
+17/11/2021 09:25:20
+	+ Label: short sleeve top, Conf: 0.99652
+	+ Label: adidas, Conf: 0.87995
+*****************************************
+UPLOAD_FOLDER/t-shirt3.jpg
+13/12/2021 01:32:11
+*****************************************
+UPLOAD_FOLDER/0001test.jpg
+13/12/2021 20:46:42
+	+ Label: short sleeve top, Conf: 0.99652
+	+ Label: adidas, Conf: 0.87995
+*****************************************
+UPLOAD_FOLDER/0001test.jpg
+13/12/2021 20:46:51
+	+ Label: short sleeve top, Conf: 0.99652
+	+ Label: adidas, Conf: 0.87995
+*****************************************
+UPLOAD_FOLDER/0001test.jpg
+13/12/2021 20:53:09
+	+ Label: short sleeve top, Conf: 0.99652
+	+ Label: adidas, Conf: 0.87995
+*****************************************
+UPLOAD_FOLDER/0002test.jpg
+13/12/2021 20:54:30
+*****************************************
+UPLOAD_FOLDER/0002test.jpg
+13/12/2021 21:06:37
+*****************************************
+UPLOAD_FOLDER/p11.jpg
+13/12/2021 21:07:12
+	+ Label: skirt, Conf: 0.86071
+	+ Label: vest, Conf: 0.91323
+	+ Label: nike, Conf: 0.62495
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//p3.jpg
+13/12/2021 22:01:33
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//0001test.jpg
+13/12/2021 22:07:12
+	+ Label: short sleeve top, Conf: 0.99652
+	+ Label: adidas, Conf: 0.87995
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//p11.jpg
+13/12/2021 22:13:51
+	+ Label: skirt, Conf: 0.86071
+	+ Label: vest, Conf: 0.91323
+	+ Label: nike, Conf: 0.62495
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//p6.jpg
+13/12/2021 22:16:15
+	+ Label: short sleeve top, Conf: 0.98781
+	+ Label: trousers, Conf: 0.90228
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//p5.jpg
+13/12/2021 22:16:44
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//amazon.jpg
+13/12/2021 22:17:11
+	+ Label: trousers, Conf: 0.99083
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//clothe.jpg
+13/12/2021 22:33:11
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//adidas_t.jpg
+13/12/2021 22:33:50
+	+ Label: short sleeve top, Conf: 0.96143
+	+ Label: trousers, Conf: 0.89782
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//p6.jpg
+13/12/2021 22:36:23
+	+ Label: short sleeve top, Conf: 0.98781
+	+ Label: trousers, Conf: 0.90228
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//dress3.jpg
+13/12/2021 22:46:43
+	+ Label: short sleeve dress, Conf: 0.93868
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//p8.jpg
+13/12/2021 22:49:26
+	+ Label: skirt, Conf: 0.99082
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//000337.jpg
+13/12/2021 22:50:02
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//tipo.jpg
+13/12/2021 22:57:30
+	+ Label: trousers, Conf: 0.97435
+	+ Label: short sleeve top, Conf: 0.96357
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//0003882.jpg
+13/12/2021 23:01:18
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//clothe2.jpg
+13/12/2021 23:02:41
+	+ Label: long sleeve outwear, Conf: 0.80595
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//tipo.jpg
+13/12/2021 23:03:39
+	+ Label: trousers, Conf: 0.97435
+	+ Label: short sleeve top, Conf: 0.96357
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//test05.jpg
+13/12/2021 23:06:36
+	+ Label: short sleeve top, Conf: 0.92002
+	+ Label: adidas, Conf: 0.42294
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//adidas_t.jpg
+13/12/2021 23:17:41
+	+ Label: short sleeve top, Conf: 0.96143
+	+ Label: trousers, Conf: 0.89782
+*****************************************
+UPLOAD_FOLDER/0002719.jpg
+13/12/2021 23:26:58
+*****************************************
+UPLOAD_FOLDER/t-shirt.png
+13/12/2021 23:29:13
+*****************************************
+UPLOAD_FOLDER/pants.jpeg
+13/12/2021 23:55:38
+*****************************************
+UPLOAD_FOLDER/dress3.jpg
+14/12/2021 00:54:46
+	+ Label: short sleeve dress, Conf: 0.93868
+*****************************************
+UPLOAD_FOLDER/0002test.jpg
+14/12/2021 01:20:29
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//0000013.jpg
+14/12/2021 01:28:30
+	+ Label: short sleeve top, Conf: 0.89377
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//p11.jpg
+14/12/2021 19:15:31
+	+ Label: skirt, Conf: 0.86071
+	+ Label: vest, Conf: 0.91323
+	+ Label: nike, Conf: 0.62495
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//p6.jpg
+14/12/2021 19:19:42
+	+ Label: short sleeve top, Conf: 0.98781
+	+ Label: trousers, Conf: 0.90228
+*****************************************
+UPLOAD_FOLDER/p8.jpg
+14/12/2021 19:31:32
+	+ Label: skirt, Conf: 0.99082
+*****************************************
+UPLOAD_FOLDER/p14.jpg
+14/12/2021 19:33:49
+	+ Label: puma, Conf: 0.60077
+*****************************************
+UPLOAD_FOLDER/p20.jpg
+14/12/2021 19:34:10
+	+ Label: trousers, Conf: 0.96939
+*****************************************
+UPLOAD_FOLDER/p11.jpg
+14/12/2021 19:34:49
+	+ Label: skirt, Conf: 0.86071
+	+ Label: vest, Conf: 0.91323
+	+ Label: nike, Conf: 0.62495
+*****************************************
+UPLOAD_FOLDER/p6.jpg
+14/12/2021 19:47:03
+	+ Label: short sleeve top, Conf: 0.98781
+	+ Label: trousers, Conf: 0.90228
+*****************************************
+UPLOAD_FOLDER/p14.jpg
+14/12/2021 19:49:09
+	+ Label: puma, Conf: 0.60077
+*****************************************
+Dresses/image_name1.png
+14/12/2021 19:57:21
+*****************************************
+Dresses/image_name29.png
+14/12/2021 19:57:42
+*****************************************
+Dresses/image_name38.png
+14/12/2021 19:57:58
+	+ Label: long sleeve dress, Conf: 0.89895
+*****************************************
+Dresses/image_name63.png
+14/12/2021 19:58:18
+	+ Label: short sleeve dress, Conf: 0.86724
+*****************************************
+Dresses\image_name1.png
+14/12/2021 20:07:43
+*****************************************
+Dresses\image_name1.png
+14/12/2021 20:08:36
+*****************************************
+Dresses\image_name10.png
+14/12/2021 20:08:48
+	+ Label: vest dress, Conf: 0.88171
+*****************************************
+Dresses\image_name11.png
+14/12/2021 20:08:53
+	+ Label: long sleeve dress, Conf: 0.86356
+*****************************************
+Dresses\image_name12.png
+14/12/2021 20:08:59
+	+ Label: long sleeve dress, Conf: 0.92674
+*****************************************
+Dresses\image_name13.png
+14/12/2021 20:09:06
+*****************************************
+Dresses\image_name14.png
+14/12/2021 20:09:11
+	+ Label: long sleeve dress, Conf: 0.95695
+*****************************************
+Dresses\image_name15.png
+14/12/2021 20:09:17
+	+ Label: long sleeve dress, Conf: 0.90450
+*****************************************
+Dresses\image_name16.png
+14/12/2021 20:09:23
+	+ Label: long sleeve dress, Conf: 0.89741
+*****************************************
+Dresses\image_name17.png
+14/12/2021 20:09:29
+	+ Label: short sleeve dress, Conf: 0.97552
+*****************************************
+Dresses\image_name18.png
+14/12/2021 20:09:33
+	+ Label: long sleeve dress, Conf: 0.89064
+*****************************************
+Dresses\image_name19.png
+14/12/2021 20:09:39
+	+ Label: long sleeve dress, Conf: 0.88915
+*****************************************
+Dresses\image_name2.png
+14/12/2021 20:09:45
+*****************************************
+Dresses\image_name20.png
+14/12/2021 20:09:50
+	+ Label: long sleeve top, Conf: 0.84416
+	+ Label: long sleeve dress, Conf: 0.86620
+*****************************************
+Dresses\image_name21.png
+14/12/2021 20:09:56
+	+ Label: long sleeve dress, Conf: 0.96141
+*****************************************
+Dresses\image_name22.png
+14/12/2021 20:10:03
+	+ Label: long sleeve dress, Conf: 0.89425
+*****************************************
+Dresses\image_name23.png
+14/12/2021 20:10:09
+*****************************************
+Dresses\image_name24.png
+14/12/2021 20:10:16
+	+ Label: long sleeve dress, Conf: 0.93146
+*****************************************
+Dresses\image_name25.png
+14/12/2021 20:10:22
+	+ Label: long sleeve dress, Conf: 0.89873
+*****************************************
+Dresses\image_name26.png
+14/12/2021 20:10:29
+*****************************************
+Dresses\image_name27.png
+14/12/2021 20:10:36
+	+ Label: vest dress, Conf: 0.83993
+*****************************************
+Dresses\image_name28.png
+14/12/2021 20:10:43
+	+ Label: long sleeve dress, Conf: 0.89260
+*****************************************
+Dresses\image_name29.png
+14/12/2021 20:10:50
+*****************************************
+Dresses\image_name30.png
+14/12/2021 20:10:56
+*****************************************
+Dresses\image_name31.png
+14/12/2021 20:11:03
+	+ Label: vest dress, Conf: 0.93619
+*****************************************
+Dresses\image_name32.png
+14/12/2021 20:11:08
+	+ Label: vest dress, Conf: 0.95271
+*****************************************
+Dresses\image_name33.png
+14/12/2021 20:11:14
+	+ Label: long sleeve dress, Conf: 0.96057
+*****************************************
+Dresses\image_name34.png
+14/12/2021 20:11:20
+*****************************************
+Dresses\image_name35.png
+14/12/2021 20:11:26
+	+ Label: long sleeve dress, Conf: 0.93532
+*****************************************
+Dresses\image_name36.png
+14/12/2021 20:11:32
+	+ Label: short sleeve dress, Conf: 0.81641
+	+ Label: long sleeve dress, Conf: 0.97489
+*****************************************
+Dresses\image_name37.png
+14/12/2021 20:11:39
+	+ Label: long sleeve dress, Conf: 0.86450
+*****************************************
+Dresses\image_name38.png
+14/12/2021 20:11:46
+	+ Label: long sleeve dress, Conf: 0.89895
+*****************************************
+Dresses\image_name39.png
+14/12/2021 20:11:53
+	+ Label: long sleeve dress, Conf: 0.87330
+*****************************************
+Dresses\image_name4.png
+14/12/2021 20:11:59
+	+ Label: long sleeve dress, Conf: 0.97121
+*****************************************
+Dresses\image_name40.png
+14/12/2021 20:12:05
+	+ Label: long sleeve dress, Conf: 0.83061
+*****************************************
+Dresses\image_name41.png
+14/12/2021 20:12:11
+	+ Label: short sleeve dress, Conf: 0.93399
+*****************************************
+Dresses\image_name42.png
+14/12/2021 20:12:17
+*****************************************
+Dresses\image_name43.png
+14/12/2021 20:12:22
+	+ Label: long sleeve dress, Conf: 0.89225
+*****************************************
+Dresses\image_name44.png
+14/12/2021 20:12:28
+	+ Label: short sleeve dress, Conf: 0.95900
+*****************************************
+Dresses\image_name45.png
+14/12/2021 20:12:34
+	+ Label: long sleeve dress, Conf: 0.99840
+*****************************************
+Dresses\image_name46.png
+14/12/2021 20:12:40
+	+ Label: sling dress, Conf: 0.98854
+*****************************************
+Dresses\image_name47.png
+14/12/2021 20:12:46
+	+ Label: long sleeve dress, Conf: 0.97776
+*****************************************
+Dresses\image_name48.png
+14/12/2021 20:12:52
+	+ Label: vest dress, Conf: 0.91328
+*****************************************
+Dresses\image_name49.png
+14/12/2021 20:12:58
+	+ Label: long sleeve dress, Conf: 0.95121
+*****************************************
+Dresses\image_name5.png
+14/12/2021 20:13:04
+*****************************************
+Dresses\image_name50.png
+14/12/2021 20:13:10
+	+ Label: long sleeve dress, Conf: 0.95766
+*****************************************
+Dresses\image_name51.png
+14/12/2021 20:13:16
+*****************************************
+Dresses\image_name52.png
+14/12/2021 20:13:22
+	+ Label: short sleeve dress, Conf: 0.99325
+*****************************************
+Dresses\image_name53.png
+14/12/2021 20:13:28
+	+ Label: skirt, Conf: 0.95614
+*****************************************
+Dresses\image_name54.png
+14/12/2021 20:13:33
+	+ Label: long sleeve dress, Conf: 0.92469
+*****************************************
+Dresses\image_name55.png
+14/12/2021 20:13:39
+	+ Label: short sleeve dress, Conf: 0.96203
+*****************************************
+Dresses\image_name56.png
+14/12/2021 20:13:45
+*****************************************
+Dresses\image_name57.png
+14/12/2021 20:13:51
+*****************************************
+Dresses\image_name58.png
+14/12/2021 20:13:57
+	+ Label: long sleeve dress, Conf: 0.81751
+*****************************************
+Dresses\image_name59.png
+14/12/2021 20:14:03
+	+ Label: long sleeve dress, Conf: 0.88683
+*****************************************
+Dresses\image_name6.png
+14/12/2021 20:14:09
+	+ Label: long sleeve dress, Conf: 0.97124
+*****************************************
+Dresses\image_name60.png
+14/12/2021 20:14:15
+	+ Label: long sleeve dress, Conf: 0.85086
+*****************************************
+Dresses\image_name61.png
+14/12/2021 20:14:21
+*****************************************
+Dresses\image_name62.png
+14/12/2021 20:14:26
+	+ Label: short sleeve top, Conf: 0.98808
+*****************************************
+Dresses\image_name63.png
+14/12/2021 20:14:32
+	+ Label: short sleeve dress, Conf: 0.86724
+*****************************************
+Dresses\image_name7.png
+14/12/2021 20:14:38
+	+ Label: long sleeve dress, Conf: 0.95785
+*****************************************
+Dresses\image_name8.png
+14/12/2021 20:14:45
+	+ Label: long sleeve dress, Conf: 0.91475
+*****************************************
+Dresses\image_name9.png
+14/12/2021 20:14:51
+*****************************************
+Panths-men\image_name1.png
+14/12/2021 20:16:27
+*****************************************
+Panths-men\image_name10.png
+14/12/2021 20:16:39
+*****************************************
+Panths-men\image_name11.png
+14/12/2021 20:16:45
+	+ Label: short sleeve top, Conf: 0.88648
+	+ Label: trousers, Conf: 0.99158
+*****************************************
+Panths-men\image_name12.png
+14/12/2021 20:16:51
+	+ Label: trousers, Conf: 0.97360
+*****************************************
+Panths-men\image_name13.png
+14/12/2021 20:16:57
+	+ Label: trousers, Conf: 0.93230
+	+ Label: puma, Conf: 0.85903
+*****************************************
+Panths-men\image_name14.png
+14/12/2021 20:17:03
+	+ Label: trousers, Conf: 0.98125
+*****************************************
+Panths-men\image_name1.png
+14/12/2021 20:18:04
+*****************************************
+Panths-men\image_name10.png
+14/12/2021 20:18:14
+*****************************************
+Panths-men\image_name11.png
+14/12/2021 20:18:17
+	+ Label: short sleeve top, Conf: 0.88648
+	+ Label: trousers, Conf: 0.99158
+*****************************************
+Panths-men\image_name12.png
+14/12/2021 20:18:21
+	+ Label: trousers, Conf: 0.97360
+*****************************************
+Panths-men\image_name13.png
+14/12/2021 20:18:25
+	+ Label: trousers, Conf: 0.93230
+	+ Label: puma, Conf: 0.85903
+*****************************************
+Panths-men\image_name14.png
+14/12/2021 20:18:28
+	+ Label: trousers, Conf: 0.98125
+*****************************************
+Panths-men\image_name15.png
+14/12/2021 20:18:32
+	+ Label: trousers, Conf: 0.99344
+*****************************************
+Panths-men\image_name16.png
+14/12/2021 20:18:36
+*****************************************
+Panths-men\image_name17.png
+14/12/2021 20:18:40
+	+ Label: trousers, Conf: 0.98949
+*****************************************
+Panths-men\image_name18.png
+14/12/2021 20:18:43
+	+ Label: trousers, Conf: 0.97588
+*****************************************
+Panths-men\image_name19.png
+14/12/2021 20:18:47
+*****************************************
+Panths-men\image_name2.png
+14/12/2021 20:18:51
+	+ Label: trousers, Conf: 0.87305
+*****************************************
+Panths-men\image_name20.png
+14/12/2021 20:18:55
+*****************************************
+Panths-men\image_name21.png
+14/12/2021 20:18:58
+	+ Label: trousers, Conf: 0.99337
+*****************************************
+Panths-men\image_name22.png
+14/12/2021 20:19:02
+	+ Label: trousers, Conf: 0.97130
+*****************************************
+Panths-men\image_name23.png
+14/12/2021 20:19:06
+	+ Label: trousers, Conf: 0.94246
+*****************************************
+Panths-men\image_name24.png
+14/12/2021 20:19:10
+	+ Label: trousers, Conf: 0.97573
+*****************************************
+Panths-men\image_name25.png
+14/12/2021 20:19:13
+	+ Label: trousers, Conf: 0.95629
+*****************************************
+Panths-men\image_name26.png
+14/12/2021 20:19:17
+	+ Label: trousers, Conf: 0.96983
+*****************************************
+Panths-men\image_name27.png
+14/12/2021 20:19:21
+	+ Label: trousers, Conf: 0.96586
+*****************************************
+Panths-men\image_name28.png
+14/12/2021 20:19:25
+	+ Label: trousers, Conf: 0.97230
+*****************************************
+Panths-men\image_name29.png
+14/12/2021 20:19:29
+	+ Label: trousers, Conf: 0.95686
+*****************************************
+Panths-men\image_name3.png
+14/12/2021 20:19:32
+	+ Label: long sleeve top, Conf: 0.95407
+	+ Label: trousers, Conf: 0.97125
+*****************************************
+Panths-men\image_name30.png
+14/12/2021 20:19:36
+	+ Label: trousers, Conf: 0.90311
+*****************************************
+Panths-men\image_name31.png
+14/12/2021 20:19:40
+	+ Label: trousers, Conf: 0.97739
+*****************************************
+Panths-men\image_name32.png
+14/12/2021 20:19:44
+*****************************************
+Panths-men\image_name33.png
+14/12/2021 20:19:48
+	+ Label: trousers, Conf: 0.82871
+*****************************************
+Panths-men\image_name34.png
+14/12/2021 20:19:52
+*****************************************
+Panths-men\image_name35.png
+14/12/2021 20:19:55
+	+ Label: trousers, Conf: 0.98556
+*****************************************
+Panths-men\image_name36.png
+14/12/2021 20:19:59
+	+ Label: trousers, Conf: 0.91133
+*****************************************
+Panths-men\image_name37.png
+14/12/2021 20:20:03
+	+ Label: long sleeve top, Conf: 0.84876
+	+ Label: trousers, Conf: 0.99595
+*****************************************
+Panths-men\image_name38.png
+14/12/2021 20:20:07
+	+ Label: trousers, Conf: 0.99024
+*****************************************
+Panths-men\image_name39.png
+14/12/2021 20:20:11
+	+ Label: trousers, Conf: 0.98234
+*****************************************
+Panths-men\image_name4.png
+14/12/2021 20:20:14
+*****************************************
+Panths-men\image_name40.png
+14/12/2021 20:20:18
+*****************************************
+Panths-men\image_name41.png
+14/12/2021 20:20:22
+	+ Label: trousers, Conf: 0.99432
+*****************************************
+Panths-men\image_name42.png
+14/12/2021 20:20:26
+	+ Label: trousers, Conf: 0.95322
+*****************************************
+Panths-men\image_name43.png
+14/12/2021 20:20:30
+	+ Label: trousers, Conf: 0.91677
+	+ Label: long sleeve top, Conf: 0.98379
+*****************************************
+Panths-men\image_name44.png
+14/12/2021 20:20:33
+	+ Label: trousers, Conf: 0.94955
+*****************************************
+Panths-men\image_name45.png
+14/12/2021 20:20:37
+	+ Label: trousers, Conf: 0.98841
+*****************************************
+Panths-men\image_name46.png
+14/12/2021 20:20:41
+	+ Label: trousers, Conf: 0.96557
+*****************************************
+Panths-men\image_name47.png
+14/12/2021 20:20:45
+*****************************************
+Panths-men\image_name48.png
+14/12/2021 20:20:49
+*****************************************
+Panths-men\image_name49.png
+14/12/2021 20:20:52
+	+ Label: trousers, Conf: 0.98230
+*****************************************
+Panths-men\image_name50.png
+14/12/2021 20:20:56
+*****************************************
+Panths-men\image_name51.png
+14/12/2021 20:21:00
+	+ Label: trousers, Conf: 0.97545
+*****************************************
+Panths-men\image_name52.png
+14/12/2021 20:21:04
+	+ Label: long sleeve top, Conf: 0.98167
+	+ Label: trousers, Conf: 0.99417
+*****************************************
+Panths-men\image_name53.png
+14/12/2021 20:21:08
+	+ Label: short sleeve top, Conf: 0.86471
+	+ Label: trousers, Conf: 0.95866
+*****************************************
+Panths-men\image_name54.png
+14/12/2021 20:21:11
+	+ Label: trousers, Conf: 0.87672
+*****************************************
+Panths-men\image_name55.png
+14/12/2021 20:21:15
+	+ Label: trousers, Conf: 0.99799
+*****************************************
+Panths-men\image_name56.png
+14/12/2021 20:21:19
+	+ Label: trousers, Conf: 0.82343
+*****************************************
+Panths-men\image_name57.png
+14/12/2021 20:21:23
+*****************************************
+Panths-men\image_name58.png
+14/12/2021 20:21:27
+	+ Label: short sleeve top, Conf: 0.85359
+*****************************************
+Panths-men\image_name59.png
+14/12/2021 20:21:31
+	+ Label: trousers, Conf: 0.96762
+*****************************************
+Panths-men\image_name6.png
+14/12/2021 20:21:34
+	+ Label: trousers, Conf: 0.94078
+	+ Label: nike, Conf: 0.63116
+*****************************************
+Panths-men\image_name60.png
+14/12/2021 20:21:38
+	+ Label: trousers, Conf: 0.97643
+*****************************************
+Panths-men\image_name61.png
+14/12/2021 20:21:42
+	+ Label: trousers, Conf: 0.98966
+*****************************************
+Panths-men\image_name62.png
+14/12/2021 20:21:46
+	+ Label: long sleeve top, Conf: 0.98862
+	+ Label: trousers, Conf: 0.99487
+*****************************************
+Panths-men\image_name63.png
+14/12/2021 20:21:50
+	+ Label: trousers, Conf: 0.99921
+*****************************************
+Panths-men\image_name64.png
+14/12/2021 20:21:54
+	+ Label: short sleeve top, Conf: 0.88139
+	+ Label: trousers, Conf: 0.98665
+*****************************************
+Panths-men\image_name65.png
+14/12/2021 20:21:58
+*****************************************
+Panths-men\image_name7.png
+14/12/2021 20:22:02
+*****************************************
+Panths-men\image_name8.png
+14/12/2021 20:22:06
+*****************************************
+Panths-men\image_name9.png
+14/12/2021 20:22:09
+	+ Label: trousers, Conf: 0.93980
+*****************************************
+Panths-women\image_name1.png
+14/12/2021 20:23:29
+*****************************************
+Panths-women\image_name10.png
+14/12/2021 20:23:38
+	+ Label: trousers, Conf: 0.95819
+*****************************************
+Panths-women\image_name11.png
+14/12/2021 20:23:42
+*****************************************
+Panths-women\image_name12.png
+14/12/2021 20:23:46
+	+ Label: trousers, Conf: 0.99610
+*****************************************
+Panths-women\image_name13.png
+14/12/2021 20:23:50
+	+ Label: trousers, Conf: 0.95401
+*****************************************
+Panths-women\image_name14.png
+14/12/2021 20:23:54
+	+ Label: trousers, Conf: 0.88350
+*****************************************
+Panths-women\image_name15.png
+14/12/2021 20:23:58
+	+ Label: long sleeve top, Conf: 0.85196
+	+ Label: trousers, Conf: 0.99364
+*****************************************
+Panths-women\image_name16.png
+14/12/2021 20:24:01
+	+ Label: long sleeve top, Conf: 0.90927
+	+ Label: trousers, Conf: 0.92367
+*****************************************
+Panths-women\image_name17.png
+14/12/2021 20:24:05
+	+ Label: short sleeve top, Conf: 0.87476
+	+ Label: trousers, Conf: 0.99564
+*****************************************
+Panths-women\image_name18.png
+14/12/2021 20:24:09
+*****************************************
+Panths-women\image_name19.png
+14/12/2021 20:24:13
+*****************************************
+Panths-women\image_name2.png
+14/12/2021 20:24:17
+	+ Label: trousers, Conf: 0.87305
+*****************************************
+Panths-women\image_name20.png
+14/12/2021 20:24:21
+	+ Label: trousers, Conf: 0.91912
+*****************************************
+Panths-women\image_name21.png
+14/12/2021 20:24:25
+*****************************************
+Panths-women\image_name22.png
+14/12/2021 20:24:29
+	+ Label: trousers, Conf: 0.99673
+*****************************************
+Panths-women\image_name23.png
+14/12/2021 20:24:32
+*****************************************
+Panths-women\image_name24.png
+14/12/2021 20:24:36
+	+ Label: trousers, Conf: 0.98923
+*****************************************
+Panths-women\image_name25.png
+14/12/2021 20:24:40
+*****************************************
+Panths-women\image_name26.png
+14/12/2021 20:24:44
+	+ Label: trousers, Conf: 0.99184
+*****************************************
+Panths-women\image_name27.png
+14/12/2021 20:24:48
+	+ Label: trousers, Conf: 0.99649
+*****************************************
+Panths-women\image_name28.png
+14/12/2021 20:24:51
+	+ Label: trousers, Conf: 0.95628
+*****************************************
+Panths-women\image_name29.png
+14/12/2021 20:24:55
+*****************************************
+Panths-women\image_name3.png
+14/12/2021 20:24:59
+	+ Label: long sleeve top, Conf: 0.95407
+	+ Label: trousers, Conf: 0.97125
+*****************************************
+Panths-women\image_name30.png
+14/12/2021 20:25:03
+	+ Label: trousers, Conf: 0.85640
+*****************************************
+Panths-women\image_name31.png
+14/12/2021 20:25:07
+	+ Label: trousers, Conf: 0.98579
+*****************************************
+Panths-women\image_name32.png
+14/12/2021 20:25:11
+	+ Label: long sleeve top, Conf: 0.85164
+	+ Label: trousers, Conf: 0.99876
+*****************************************
+Panths-women\image_name33.png
+14/12/2021 20:25:14
+	+ Label: trousers, Conf: 0.99802
+*****************************************
+Panths-women\image_name34.png
+14/12/2021 20:25:18
+	+ Label: trousers, Conf: 0.86044
+*****************************************
+Panths-women\image_name35.png
+14/12/2021 20:25:22
+*****************************************
+Panths-women\image_name36.png
+14/12/2021 20:25:26
+	+ Label: trousers, Conf: 0.99537
+*****************************************
+Panths-women\image_name37.png
+14/12/2021 20:25:30
+*****************************************
+Panths-women\image_name38.png
+14/12/2021 20:25:34
+	+ Label: trousers, Conf: 0.89157
+*****************************************
+Panths-women\image_name39.png
+14/12/2021 20:25:37
+	+ Label: trousers, Conf: 0.97105
+*****************************************
+Panths-women\image_name4.png
+14/12/2021 20:25:41
+*****************************************
+Panths-women\image_name40.png
+14/12/2021 20:25:45
+	+ Label: trousers, Conf: 0.97097
+*****************************************
+Panths-women\image_name41.png
+14/12/2021 20:25:49
+	+ Label: long sleeve top, Conf: 0.99003
+	+ Label: trousers, Conf: 0.99156
+*****************************************
+Panths-women\image_name42.png
+14/12/2021 20:25:53
+	+ Label: trousers, Conf: 0.99144
+*****************************************
+Panths-women\image_name43.png
+14/12/2021 20:25:56
+	+ Label: long sleeve top, Conf: 0.89513
+	+ Label: trousers, Conf: 0.99432
+*****************************************
+Panths-women\image_name44.png
+14/12/2021 20:26:00
+	+ Label: trousers, Conf: 0.82094
+	+ Label: long sleeve top, Conf: 0.92365
+*****************************************
+Panths-women\image_name45.png
+14/12/2021 20:26:04
+*****************************************
+Panths-women\image_name46.png
+14/12/2021 20:26:08
+	+ Label: trousers, Conf: 0.92002
+*****************************************
+Panths-women\image_name47.png
+14/12/2021 20:26:12
+	+ Label: trousers, Conf: 0.96686
+*****************************************
+Panths-women\image_name48.png
+14/12/2021 20:26:16
+	+ Label: long sleeve top, Conf: 0.94403
+	+ Label: trousers, Conf: 0.97821
+*****************************************
+Panths-women\image_name49.png
+14/12/2021 20:26:20
+	+ Label: trousers, Conf: 0.98839
+*****************************************
+Panths-women\image_name50.png
+14/12/2021 20:26:24
+	+ Label: long sleeve top, Conf: 0.88946
+	+ Label: trousers, Conf: 0.99342
+*****************************************
+Panths-women\image_name51.png
+14/12/2021 20:26:27
+	+ Label: trousers, Conf: 0.91522
+*****************************************
+Panths-women\image_name52.png
+14/12/2021 20:26:31
+	+ Label: short sleeve top, Conf: 0.97202
+	+ Label: trousers, Conf: 0.98505
+*****************************************
+Panths-women\image_name53.png
+14/12/2021 20:26:35
+	+ Label: trousers, Conf: 0.98081
+*****************************************
+Panths-women\image_name54.png
+14/12/2021 20:26:39
+	+ Label: trousers, Conf: 0.96976
+*****************************************
+Panths-women\image_name55.png
+14/12/2021 20:26:43
+	+ Label: trousers, Conf: 0.96140
+*****************************************
+Panths-women\image_name56.png
+14/12/2021 20:26:47
+	+ Label: trousers, Conf: 0.94131
+*****************************************
+Panths-women\image_name57.png
+14/12/2021 20:26:51
+	+ Label: trousers, Conf: 0.94474
+*****************************************
+Panths-women\image_name58.png
+14/12/2021 20:26:54
+*****************************************
+Panths-women\image_name59.png
+14/12/2021 20:26:58
+	+ Label: trousers, Conf: 0.85288
+*****************************************
+Panths-women\image_name6.png
+14/12/2021 20:27:02
+	+ Label: trousers, Conf: 0.88201
+*****************************************
+Panths-women\image_name60.png
+14/12/2021 20:27:06
+	+ Label: trousers, Conf: 0.86355
+*****************************************
+Panths-women\image_name61.png
+14/12/2021 20:27:10
+*****************************************
+Panths-women\image_name62.png
+14/12/2021 20:27:14
+	+ Label: trousers, Conf: 0.80404
+*****************************************
+Panths-women\image_name63.png
+14/12/2021 20:27:17
+	+ Label: trousers, Conf: 0.91596
+*****************************************
+Panths-women\image_name64.png
+14/12/2021 20:27:21
+	+ Label: trousers, Conf: 0.99037
+*****************************************
+Panths-women\image_name65.png
+14/12/2021 20:27:25
+*****************************************
+Panths-women\image_name7.png
+14/12/2021 20:27:29
+*****************************************
+Panths-women\image_name8.png
+14/12/2021 20:27:33
+	+ Label: trousers, Conf: 0.97547
+*****************************************
+Panths-women\image_name9.png
+14/12/2021 20:27:37
+*****************************************
+Skirts\image_name1.png
+14/12/2021 20:28:33
+	+ Label: long sleeve top, Conf: 0.98254
+*****************************************
+Skirts\image_name10.png
+14/12/2021 20:28:43
+*****************************************
+Skirts\image_name11.png
+14/12/2021 20:28:47
+	+ Label: skirt, Conf: 0.86750
+*****************************************
+Skirts\image_name12.png
+14/12/2021 20:28:51
+	+ Label: skirt, Conf: 0.94823
+	+ Label: long sleeve top, Conf: 0.99593
+*****************************************
+Skirts\image_name13.png
+14/12/2021 20:28:55
+	+ Label: skirt, Conf: 0.98175
+*****************************************
+Skirts\image_name14.png
+14/12/2021 20:28:59
+	+ Label: skirt, Conf: 0.84313
+*****************************************
+Skirts\image_name15.png
+14/12/2021 20:29:03
+	+ Label: skirt, Conf: 0.92567
+*****************************************
+Skirts\image_name16.png
+14/12/2021 20:29:07
+	+ Label: long sleeve top, Conf: 0.92776
+	+ Label: skirt, Conf: 0.98603
+*****************************************
+Skirts\image_name17.png
+14/12/2021 20:29:11
+	+ Label: skirt, Conf: 0.99551
+*****************************************
+Skirts\image_name18.png
+14/12/2021 20:29:15
+*****************************************
+Skirts\image_name19.png
+14/12/2021 20:29:19
+*****************************************
+Skirts\image_name20.png
+14/12/2021 20:29:23
+	+ Label: trousers, Conf: 0.88899
+	+ Label: skirt, Conf: 0.89487
+*****************************************
+Skirts\image_name21.png
+14/12/2021 20:29:26
+	+ Label: skirt, Conf: 0.90835
+*****************************************
+Skirts\image_name22.png
+14/12/2021 20:29:30
+	+ Label: skirt, Conf: 0.92705
+	+ Label: short sleeve top, Conf: 0.98746
+*****************************************
+Skirts\image_name23.png
+14/12/2021 20:29:34
+	+ Label: skirt, Conf: 0.95352
+*****************************************
+Skirts\image_name24.png
+14/12/2021 20:29:38
+	+ Label: skirt, Conf: 0.95525
+*****************************************
+Skirts\image_name25.png
+14/12/2021 20:29:42
+*****************************************
+Skirts\image_name26.png
+14/12/2021 20:29:45
+	+ Label: sling dress, Conf: 0.94034
+*****************************************
+Skirts\image_name27.png
+14/12/2021 20:29:49
+*****************************************
+Skirts\image_name28.png
+14/12/2021 20:29:53
+	+ Label: long sleeve top, Conf: 0.90920
+	+ Label: skirt, Conf: 0.96530
+*****************************************
+Skirts\image_name29.png
+14/12/2021 20:29:57
+*****************************************
+Skirts\image_name3.png
+14/12/2021 20:30:01
+*****************************************
+Skirts\image_name30.png
+14/12/2021 20:30:05
+	+ Label: long sleeve top, Conf: 0.84833
+	+ Label: skirt, Conf: 0.95156
+*****************************************
+Skirts\image_name31.png
+14/12/2021 20:30:09
+*****************************************
+Skirts\image_name32.png
+14/12/2021 20:30:13
+	+ Label: skirt, Conf: 0.97764
+*****************************************
+Skirts\image_name33.png
+14/12/2021 20:30:17
+	+ Label: skirt, Conf: 0.84537
+*****************************************
+Skirts\image_name34.png
+14/12/2021 20:30:20
+*****************************************
+Skirts\image_name35.png
+14/12/2021 20:30:24
+	+ Label: short sleeve top, Conf: 0.93346
+*****************************************
+Skirts\image_name36.png
+14/12/2021 20:30:28
+*****************************************
+Skirts\image_name37.png
+14/12/2021 20:30:32
+	+ Label: skirt, Conf: 0.96017
+*****************************************
+Skirts\image_name38.png
+14/12/2021 20:30:36
+	+ Label: skirt, Conf: 0.91926
+*****************************************
+Skirts\image_name39.png
+14/12/2021 20:30:40
+	+ Label: long sleeve dress, Conf: 0.82337
+*****************************************
+Skirts\image_name4.png
+14/12/2021 20:30:44
+	+ Label: skirt, Conf: 0.81486
+	+ Label: long sleeve top, Conf: 0.89352
+*****************************************
+Skirts\image_name40.png
+14/12/2021 20:30:47
+	+ Label: skirt, Conf: 0.95456
+*****************************************
+Skirts\image_name41.png
+14/12/2021 20:30:51
+	+ Label: skirt, Conf: 0.94928
+*****************************************
+Skirts\image_name42.png
+14/12/2021 20:30:55
+*****************************************
+Skirts\image_name43.png
+14/12/2021 20:30:58
+	+ Label: short sleeve dress, Conf: 0.90305
+	+ Label: skirt, Conf: 0.96602
+*****************************************
+Skirts\image_name44.png
+14/12/2021 20:31:02
+	+ Label: skirt, Conf: 0.80521
+*****************************************
+Skirts\image_name45.png
+14/12/2021 20:31:06
+*****************************************
+Skirts\image_name46.png
+14/12/2021 20:31:10
+*****************************************
+Skirts\image_name47.png
+14/12/2021 20:31:13
+	+ Label: short sleeve dress, Conf: 0.89566
+*****************************************
+Skirts\image_name48.png
+14/12/2021 20:31:17
+	+ Label: skirt, Conf: 0.92251
+*****************************************
+Skirts\image_name49.png
+14/12/2021 20:31:21
+	+ Label: long sleeve top, Conf: 0.96449
+*****************************************
+Skirts\image_name5.png
+14/12/2021 20:31:25
+	+ Label: long sleeve top, Conf: 0.97850
+*****************************************
+Skirts\image_name50.png
+14/12/2021 20:31:29
+	+ Label: sling dress, Conf: 0.91294
+*****************************************
+Skirts\image_name51.png
+14/12/2021 20:31:33
+	+ Label: skirt, Conf: 0.94475
+*****************************************
+Skirts\image_name52.png
+14/12/2021 20:31:37
+*****************************************
+Skirts\image_name53.png
+14/12/2021 20:31:41
+*****************************************
+Skirts\image_name54.png
+14/12/2021 20:31:44
+*****************************************
+Skirts\image_name55.png
+14/12/2021 20:31:48
+*****************************************
+Skirts\image_name56.png
+14/12/2021 20:31:52
+*****************************************
+Skirts\image_name57.png
+14/12/2021 20:31:56
+	+ Label: long sleeve top, Conf: 0.83065
+	+ Label: skirt, Conf: 0.90384
+*****************************************
+Skirts\image_name58.png
+14/12/2021 20:32:00
+	+ Label: sling dress, Conf: 0.92126
+*****************************************
+Skirts\image_name59.png
+14/12/2021 20:32:04
+	+ Label: skirt, Conf: 0.94717
+*****************************************
+Skirts\image_name6.png
+14/12/2021 20:32:08
+	+ Label: vest, Conf: 0.92934
+	+ Label: skirt, Conf: 0.93835
+*****************************************
+Skirts\image_name60.png
+14/12/2021 20:32:12
+	+ Label: skirt, Conf: 0.88379
+*****************************************
+Skirts\image_name61.png
+14/12/2021 20:32:15
+*****************************************
+Skirts\image_name62.png
+14/12/2021 20:32:19
+	+ Label: long sleeve dress, Conf: 0.82763
+*****************************************
+Skirts\image_name7.png
+14/12/2021 20:32:23
+	+ Label: short sleeve top, Conf: 0.83875
+*****************************************
+Skirts\image_name8.png
+14/12/2021 20:32:27
+*****************************************
+Skirts\image_name9.png
+14/12/2021 20:32:31
+	+ Label: skirt, Conf: 0.89730
+*****************************************
+T-Shirts-men\image_name1.png
+14/12/2021 20:33:36
+	+ Label: trousers, Conf: 0.96174
+	+ Label: short sleeve top, Conf: 0.98924
+*****************************************
+T-Shirts-men\image_name10.png
+14/12/2021 20:33:46
+	+ Label: trousers, Conf: 0.93184
+	+ Label: short sleeve top, Conf: 0.99091
+*****************************************
+T-Shirts-men\image_name11.png
+14/12/2021 20:33:49
+	+ Label: short sleeve top, Conf: 0.82458
+*****************************************
+T-Shirts-men\image_name12.png
+14/12/2021 20:33:53
+	+ Label: short sleeve top, Conf: 0.89184
+*****************************************
+T-Shirts-men\image_name13.png
+14/12/2021 20:33:57
+	+ Label: short sleeve top, Conf: 0.96906
+*****************************************
+T-Shirts-men\image_name14.png
+14/12/2021 20:34:01
+	+ Label: short sleeve top, Conf: 0.95606
+	+ Label: shorts, Conf: 0.97077
+*****************************************
+T-Shirts-men\image_name1.png
+14/12/2021 20:35:05
+	+ Label: trousers, Conf: 0.96174
+	+ Label: short sleeve top, Conf: 0.98924
+*****************************************
+T-Shirts-men\image_name10.png
+14/12/2021 20:35:15
+	+ Label: trousers, Conf: 0.93184
+	+ Label: short sleeve top, Conf: 0.99091
+*****************************************
+T-Shirts-men\image_name11.png
+14/12/2021 20:35:18
+	+ Label: short sleeve top, Conf: 0.82458
+*****************************************
+T-Shirts-men\image_name12.png
+14/12/2021 20:35:22
+	+ Label: short sleeve top, Conf: 0.89184
+*****************************************
+T-Shirts-men\image_name13.png
+14/12/2021 20:35:26
+	+ Label: short sleeve top, Conf: 0.96906
+*****************************************
+T-Shirts-men\image_name14.png
+14/12/2021 20:35:29
+	+ Label: short sleeve top, Conf: 0.95606
+	+ Label: shorts, Conf: 0.97077
+*****************************************
+T-Shirts-men\image_name15.png
+14/12/2021 20:35:33
+	+ Label: short sleeve top, Conf: 0.98065
+*****************************************
+T-Shirts-men\image_name16.png
+14/12/2021 20:35:37
+	+ Label: shorts, Conf: 0.89508
+	+ Label: short sleeve top, Conf: 0.98513
+*****************************************
+T-Shirts-men\image_name17.png
+14/12/2021 20:35:41
+	+ Label: shorts, Conf: 0.92262
+	+ Label: short sleeve top, Conf: 0.98934
+*****************************************
+T-Shirts-men\image_name18.png
+14/12/2021 20:35:44
+	+ Label: trousers, Conf: 0.95033
+	+ Label: short sleeve top, Conf: 0.97153
+	+ Label: short sleeve top, Conf: 0.97392
+	+ Label: trousers, Conf: 0.98620
+*****************************************
+T-Shirts-men\image_name19.png
+14/12/2021 20:35:48
+	+ Label: short sleeve top, Conf: 0.97156
+*****************************************
+T-Shirts-men\image_name2.png
+14/12/2021 20:35:52
+	+ Label: short sleeve top, Conf: 0.85126
+*****************************************
+T-Shirts-men\image_name20.png
+14/12/2021 20:35:56
+	+ Label: shorts, Conf: 0.91866
+	+ Label: short sleeve top, Conf: 0.98438
+*****************************************
+T-Shirts-men\image_name21.png
+14/12/2021 20:36:00
+	+ Label: short sleeve top, Conf: 0.98637
+*****************************************
+T-Shirts-men\image_name22.png
+14/12/2021 20:36:03
+	+ Label: shorts, Conf: 0.99002
+	+ Label: short sleeve top, Conf: 0.99305
+*****************************************
+T-Shirts-men\image_name23.png
+14/12/2021 20:36:07
+	+ Label: trousers, Conf: 0.84545
+	+ Label: short sleeve top, Conf: 0.98202
+*****************************************
+T-Shirts-men\image_name24.png
+14/12/2021 20:36:11
+	+ Label: trousers, Conf: 0.95261
+	+ Label: short sleeve top, Conf: 0.98491
+*****************************************
+T-Shirts-men\image_name25.png
+14/12/2021 20:36:15
+*****************************************
+T-Shirts-men\image_name26.png
+14/12/2021 20:36:19
+	+ Label: short sleeve top, Conf: 0.99625
+*****************************************
+T-Shirts-men\image_name27.png
+14/12/2021 20:36:22
+	+ Label: shorts, Conf: 0.90733
+	+ Label: short sleeve top, Conf: 0.91091
+*****************************************
+T-Shirts-men\image_name28.png
+14/12/2021 20:36:26
+	+ Label: trousers, Conf: 0.81129
+	+ Label: short sleeve top, Conf: 0.96938
+*****************************************
+T-Shirts-men\image_name29.png
+14/12/2021 20:36:30
+	+ Label: short sleeve top, Conf: 0.86696
+*****************************************
+T-Shirts-men\image_name3.png
+14/12/2021 20:36:34
+*****************************************
+T-Shirts-men\image_name30.png
+14/12/2021 20:36:38
+	+ Label: trousers, Conf: 0.89139
+	+ Label: short sleeve top, Conf: 0.99148
+*****************************************
+T-Shirts-men\image_name31.png
+14/12/2021 20:36:41
+	+ Label: shorts, Conf: 0.87456
+	+ Label: short sleeve top, Conf: 0.99108
+*****************************************
+T-Shirts-men\image_name32.png
+14/12/2021 20:36:45
+*****************************************
+T-Shirts-men\image_name33.png
+14/12/2021 20:36:49
+	+ Label: shorts, Conf: 0.86353
+	+ Label: short sleeve top, Conf: 0.96397
+*****************************************
+T-Shirts-men\image_name34.png
+14/12/2021 20:36:53
+*****************************************
+T-Shirts-men\image_name35.png
+14/12/2021 20:36:57
+	+ Label: trousers, Conf: 0.93853
+	+ Label: short sleeve top, Conf: 0.99048
+*****************************************
+T-Shirts-men\image_name36.png
+14/12/2021 20:37:01
+*****************************************
+T-Shirts-men\image_name37.png
+14/12/2021 20:37:05
+*****************************************
+T-Shirts-men\image_name38.png
+14/12/2021 20:37:09
+	+ Label: trousers, Conf: 0.86780
+	+ Label: short sleeve top, Conf: 0.98108
+*****************************************
+T-Shirts-men\image_name39.png
+14/12/2021 20:37:12
+*****************************************
+T-Shirts-men\image_name4.png
+14/12/2021 20:37:16
+	+ Label: trousers, Conf: 0.88964
+	+ Label: short sleeve top, Conf: 0.95849
+*****************************************
+T-Shirts-men\image_name40.png
+14/12/2021 20:37:20
+	+ Label: shorts, Conf: 0.87496
+	+ Label: short sleeve top, Conf: 0.99548
+*****************************************
+T-Shirts-men\image_name41.png
+14/12/2021 20:37:24
+*****************************************
+T-Shirts-men\image_name42.png
+14/12/2021 20:37:28
+	+ Label: short sleeve top, Conf: 0.98898
+	+ Label: trousers, Conf: 0.99303
+*****************************************
+T-Shirts-men\image_name43.png
+14/12/2021 20:37:32
+*****************************************
+T-Shirts-men\image_name44.png
+14/12/2021 20:37:35
+	+ Label: shorts, Conf: 0.83452
+	+ Label: short sleeve top, Conf: 0.99369
+*****************************************
+T-Shirts-men\image_name45.png
+14/12/2021 20:37:38
+*****************************************
+T-Shirts-men\image_name46.png
+14/12/2021 20:37:42
+	+ Label: short sleeve top, Conf: 0.96794
+*****************************************
+T-Shirts-men\image_name47.png
+14/12/2021 20:37:46
+	+ Label: trousers, Conf: 0.98101
+	+ Label: short sleeve top, Conf: 0.98930
+*****************************************
+T-Shirts-men\image_name48.png
+14/12/2021 20:37:50
+	+ Label: long sleeve top, Conf: 0.98973
+*****************************************
+T-Shirts-men\image_name49.png
+14/12/2021 20:37:54
+	+ Label: short sleeve top, Conf: 0.91152
+	+ Label: trousers, Conf: 0.96505
+*****************************************
+T-Shirts-men\image_name50.png
+14/12/2021 20:37:58
+*****************************************
+T-Shirts-men\image_name51.png
+14/12/2021 20:38:02
+*****************************************
+T-Shirts-men\image_name52.png
+14/12/2021 20:38:05
+	+ Label: trousers, Conf: 0.89211
+	+ Label: short sleeve top, Conf: 0.99716
+*****************************************
+T-Shirts-men\image_name53.png
+14/12/2021 20:38:09
+	+ Label: short sleeve top, Conf: 0.99509
+*****************************************
+T-Shirts-men\image_name54.png
+14/12/2021 20:38:13
+*****************************************
+T-Shirts-men\image_name55.png
+14/12/2021 20:38:17
+	+ Label: trousers, Conf: 0.89698
+	+ Label: short sleeve top, Conf: 0.99392
+*****************************************
+T-Shirts-men\image_name56.png
+14/12/2021 20:38:21
+	+ Label: short sleeve top, Conf: 0.98241
+*****************************************
+T-Shirts-men\image_name57.png
+14/12/2021 20:38:25
+	+ Label: short sleeve top, Conf: 0.98196
+*****************************************
+T-Shirts-men\image_name58.png
+14/12/2021 20:38:29
+	+ Label: short sleeve top, Conf: 0.97496
+*****************************************
+T-Shirts-men\image_name59.png
+14/12/2021 20:38:33
+*****************************************
+T-Shirts-men\image_name6.png
+14/12/2021 20:38:36
+	+ Label: shorts, Conf: 0.90459
+	+ Label: short sleeve top, Conf: 0.98720
+*****************************************
+T-Shirts-men\image_name60.png
+14/12/2021 20:38:40
+*****************************************
+T-Shirts-men\image_name61.png
+14/12/2021 20:38:44
+	+ Label: trousers, Conf: 0.88154
+	+ Label: short sleeve top, Conf: 0.98193
+*****************************************
+T-Shirts-men\image_name62.png
+14/12/2021 20:38:48
+	+ Label: short sleeve top, Conf: 0.97785
+*****************************************
+T-Shirts-men\image_name63.png
+14/12/2021 20:38:52
+*****************************************
+T-Shirts-men\image_name64.png
+14/12/2021 20:38:55
+	+ Label: short sleeve top, Conf: 0.93204
+*****************************************
+T-Shirts-men\image_name65.png
+14/12/2021 20:38:59
+	+ Label: trousers, Conf: 0.93863
+	+ Label: short sleeve top, Conf: 0.99126
+*****************************************
+T-Shirts-men\image_name7.png
+14/12/2021 20:39:02
+*****************************************
+T-Shirts-men\image_name8.png
+14/12/2021 20:39:06
+*****************************************
+T-Shirts-men\image_name9.png
+14/12/2021 20:39:10
+	+ Label: short sleeve top, Conf: 0.98609
+*****************************************
+T-Shirts-women\image_name10.png
+14/12/2021 20:40:01
+	+ Label: trousers, Conf: 0.82827
+	+ Label: trousers, Conf: 0.94117
+	+ Label: short sleeve top, Conf: 0.99065
+	+ Label: short sleeve top, Conf: 0.99451
+*****************************************
+T-Shirts-women\image_name11.png
+14/12/2021 20:40:11
+	+ Label: short sleeve top, Conf: 0.90825
+*****************************************
+T-Shirts-women\image_name12.png
+14/12/2021 20:40:15
+	+ Label: short sleeve top, Conf: 0.90056
+	+ Label: short sleeve top, Conf: 0.98497
+	+ Label: shorts, Conf: 0.98700
+*****************************************
+T-Shirts-women\image_name13.png
+14/12/2021 20:40:18
+	+ Label: short sleeve top, Conf: 0.97210
+*****************************************
+T-Shirts-women\image_name14.png
+14/12/2021 20:40:22
+*****************************************
+T-Shirts-women\image_name15.png
+14/12/2021 20:40:26
+*****************************************
+T-Shirts-women\image_name16.png
+14/12/2021 20:40:30
+	+ Label: trousers, Conf: 0.92417
+	+ Label: short sleeve top, Conf: 0.99124
+*****************************************
+T-Shirts-women\image_name17.png
+14/12/2021 20:40:34
+*****************************************
+T-Shirts-women\image_name18.png
+14/12/2021 20:40:37
+*****************************************
+T-Shirts-women\image_name19.png
+14/12/2021 20:40:41
+	+ Label: short sleeve top, Conf: 0.97130
+	+ Label: short sleeve top, Conf: 0.97136
+*****************************************
+T-Shirts-women\image_name20.png
+14/12/2021 20:40:45
+*****************************************
+T-Shirts-women\image_name21.png
+14/12/2021 20:40:49
+	+ Label: short sleeve top, Conf: 0.89184
+*****************************************
+T-Shirts-women\image_name22.png
+14/12/2021 20:40:53
+	+ Label: short sleeve top, Conf: 0.96906
+*****************************************
+T-Shirts-women\image_name23.png
+14/12/2021 20:40:56
+	+ Label: trousers, Conf: 0.95033
+	+ Label: short sleeve top, Conf: 0.97153
+	+ Label: short sleeve top, Conf: 0.97392
+	+ Label: trousers, Conf: 0.98620
+*****************************************
+T-Shirts-women\image_name24.png
+14/12/2021 20:41:00
+	+ Label: short sleeve top, Conf: 0.86696
+*****************************************
+T-Shirts-women\image_name25.png
+14/12/2021 20:41:04
+*****************************************
+T-Shirts-women\image_name26.png
+14/12/2021 20:41:08
+*****************************************
+T-Shirts-women\image_name27.png
+14/12/2021 20:41:12
+	+ Label: short sleeve top, Conf: 0.87738
+*****************************************
+T-Shirts-women\image_name28.png
+14/12/2021 20:41:16
+*****************************************
+T-Shirts-women\image_name29.png
+14/12/2021 20:41:20
+	+ Label: long sleeve top, Conf: 0.98973
+*****************************************
+T-Shirts-women\image_name30.png
+14/12/2021 20:41:23
+*****************************************
+T-Shirts-women\image_name31.png
+14/12/2021 20:41:27
+*****************************************
+T-Shirts-women\image_name32.png
+14/12/2021 20:41:31
+*****************************************
+T-Shirts-women\image_name33.png
+14/12/2021 20:41:35
+	+ Label: trousers, Conf: 0.99281
+	+ Label: short sleeve top, Conf: 0.99399
+*****************************************
+T-Shirts-women\image_name34.png
+14/12/2021 20:41:39
+	+ Label: short sleeve top, Conf: 0.95861
+*****************************************
+T-Shirts-women\image_name35.png
+14/12/2021 20:41:43
+*****************************************
+T-Shirts-women\image_name36.png
+14/12/2021 20:41:47
+	+ Label: short sleeve top, Conf: 0.92991
+*****************************************
+T-Shirts-women\image_name37.png
+14/12/2021 20:41:51
+*****************************************
+T-Shirts-women\image_name38.png
+14/12/2021 20:41:55
+	+ Label: short sleeve top, Conf: 0.93668
+	+ Label: trousers, Conf: 0.97821
+*****************************************
+T-Shirts-women\image_name39.png
+14/12/2021 20:41:59
+	+ Label: short sleeve top, Conf: 0.98880
+*****************************************
+T-Shirts-women\image_name40.png
+14/12/2021 20:42:03
+	+ Label: short sleeve top, Conf: 0.99407
+	+ Label: shorts, Conf: 0.99850
+*****************************************
+T-Shirts-women\image_name41.png
+14/12/2021 20:42:07
+	+ Label: shorts, Conf: 0.97733
+	+ Label: short sleeve top, Conf: 0.99761
+*****************************************
+T-Shirts-women\image_name42.png
+14/12/2021 20:42:11
+*****************************************
+T-Shirts-women\image_name43.png
+14/12/2021 20:42:15
+	+ Label: short sleeve top, Conf: 0.99498
+*****************************************
+T-Shirts-women\image_name44.png
+14/12/2021 20:42:19
+	+ Label: short sleeve top, Conf: 0.93151
+*****************************************
+T-Shirts-women\image_name45.png
+14/12/2021 20:42:23
+	+ Label: trousers, Conf: 0.87017
+	+ Label: short sleeve top, Conf: 0.98509
+*****************************************
+T-Shirts-women\image_name46.png
+14/12/2021 20:42:27
+	+ Label: trousers, Conf: 0.84078
+	+ Label: short sleeve top, Conf: 0.91746
+*****************************************
+T-Shirts-women\image_name47.png
+14/12/2021 20:42:31
+	+ Label: trousers, Conf: 0.92215
+*****************************************
+T-Shirts-women\image_name48.png
+14/12/2021 20:42:35
+	+ Label: short sleeve top, Conf: 0.84355
+	+ Label: short sleeve top, Conf: 0.96232
+*****************************************
+T-Shirts-women\image_name49.png
+14/12/2021 20:42:39
+*****************************************
+T-Shirts-women\image_name50.png
+14/12/2021 20:42:42
+	+ Label: trousers, Conf: 0.97870
+	+ Label: short sleeve top, Conf: 0.99752
+*****************************************
+T-Shirts-women\image_name51.png
+14/12/2021 20:42:46
+	+ Label: short sleeve top, Conf: 0.91486
+	+ Label: trousers, Conf: 0.95551
+*****************************************
+T-Shirts-women\image_name52.png
+14/12/2021 20:42:50
+	+ Label: trousers, Conf: 0.85291
+	+ Label: short sleeve top, Conf: 0.98633
+*****************************************
+T-Shirts-women\image_name53.png
+14/12/2021 20:42:54
+	+ Label: short sleeve top, Conf: 0.99387
+	+ Label: trousers, Conf: 0.99706
+*****************************************
+T-Shirts-women\image_name54.png
+14/12/2021 20:42:58
+	+ Label: short sleeve top, Conf: 0.98123
+	+ Label: trousers, Conf: 0.99577
+*****************************************
+T-Shirts-women\image_name55.png
+14/12/2021 20:43:02
+	+ Label: trousers, Conf: 0.96193
+	+ Label: short sleeve top, Conf: 0.97901
+*****************************************
+T-Shirts-women\image_name56.png
+14/12/2021 20:43:06
+	+ Label: trousers, Conf: 0.86946
+	+ Label: short sleeve top, Conf: 0.96083
+	+ Label: short sleeve top, Conf: 0.96939
+*****************************************
+T-Shirts-women\image_name57.png
+14/12/2021 20:43:09
+	+ Label: trousers, Conf: 0.89820
+	+ Label: short sleeve top, Conf: 0.97545
+*****************************************
+T-Shirts-women\image_name58.png
+14/12/2021 20:43:13
+	+ Label: trousers, Conf: 0.92607
+*****************************************
+T-Shirts-women\image_name59.png
+14/12/2021 20:43:17
+	+ Label: trousers, Conf: 0.99249
+	+ Label: short sleeve top, Conf: 0.99564
+*****************************************
+T-Shirts-women\image_name6.png
+14/12/2021 20:43:21
+	+ Label: short sleeve top, Conf: 0.93381
+*****************************************
+T-Shirts-women\image_name60.png
+14/12/2021 20:43:25
+	+ Label: trousers, Conf: 0.99778
+*****************************************
+T-Shirts-women\image_name61.png
+14/12/2021 20:43:29
+	+ Label: short sleeve top, Conf: 0.91940
+*****************************************
+T-Shirts-women\image_name62.png
+14/12/2021 20:43:33
+	+ Label: short sleeve top, Conf: 0.88828
+*****************************************
+T-Shirts-women\image_name63.png
+14/12/2021 20:43:37
+	+ Label: short sleeve top, Conf: 0.96920
+	+ Label: shorts, Conf: 0.99262
+*****************************************
+T-Shirts-women\image_name64.png
+14/12/2021 20:43:41
+	+ Label: long sleeve top, Conf: 0.92960
+*****************************************
+T-Shirts-women\image_name65.png
+14/12/2021 20:43:44
+	+ Label: short sleeve top, Conf: 0.87322
+	+ Label: trousers, Conf: 0.98213
+*****************************************
+T-Shirts-women\image_name7.png
+14/12/2021 20:43:48
+*****************************************
+T-Shirts-women\image_name8.png
+14/12/2021 20:43:52
+*****************************************
+T-Shirts-women\image_name9.png
+14/12/2021 20:43:56
+	+ Label: trousers, Conf: 0.91538
+	+ Label: short sleeve top, Conf: 0.92672
+*****************************************
+UPLOAD_FOLDER/pants.jpeg
+14/12/2021 21:53:23
+*****************************************
+UPLOAD_FOLDER/shirt.jpg
+14/12/2021 21:53:48
+*****************************************
+UPLOAD_FOLDER/test05.jpg
+14/12/2021 22:08:14
+	+ Label: short sleeve top, Conf: 0.92002
+	+ Label: adidas, Conf: 0.42294
+*****************************************
+UPLOAD_FOLDER/dress.jpg
+15/12/2021 01:35:46
+	+ Label: sling dress, Conf: 0.84071
+	+ Label: vest dress, Conf: 0.98767
+*****************************************
+UPLOAD_FOLDER/t-shirt2.jpg
+15/12/2021 01:36:22
+	+ Label: short sleeve top, Conf: 0.95617
+	+ Label: adidas, Conf: 0.85224
+*****************************************
+UPLOAD_FOLDER/trousers2.jpg
+15/12/2021 01:37:15
+	+ Label: trousers, Conf: 0.81272
+*****************************************
+UPLOAD_FOLDER/dress.jpg
+15/12/2021 09:32:07
+	+ Label: sling dress, Conf: 0.84071
+	+ Label: vest dress, Conf: 0.98767
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//dress.jpg
+15/12/2021 09:41:04
+	+ Label: sling dress, Conf: 0.84071
+	+ Label: vest dress, Conf: 0.98767
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//trousers.jpg
+15/12/2021 09:41:40
+	+ Label: trousers, Conf: 0.92068
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//t-shirt2.jpg
+15/12/2021 09:42:02
+	+ Label: short sleeve top, Conf: 0.95617
+	+ Label: adidas, Conf: 0.85224
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//adidas_t.jpg
+15/12/2021 09:42:46
+	+ Label: short sleeve top, Conf: 0.96143
+	+ Label: trousers, Conf: 0.89782
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//0001test.jpg
+15/12/2021 09:44:11
+	+ Label: short sleeve top, Conf: 0.99652
+	+ Label: adidas, Conf: 0.87995
+*****************************************
+D://Master UBB 9//IIBS//clothing-detection//clothing-detection-project//src//assets//images//UPLOAD_FOLDER//p14.jpg
+15/12/2021 10:18:56
+	+ Label: puma, Conf: 0.60077
+*****************************************
