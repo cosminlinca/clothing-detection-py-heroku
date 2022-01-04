@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: torchvision
-Version: 0.4.1
+Version: 0.4.0+cpu
 Summary: image and video datasets and models for torch deep learning
 Home-page: https://github.com/pytorch/vision
 Author: PyTorch Core Team
@@ -10,7 +10,7 @@ Platform: UNKNOWN
 Provides-Extra: scipy
 Requires-Dist: numpy
 Requires-Dist: six
-Requires-Dist: torch (==1.3.0)
+Requires-Dist: torch (==1.2.0)
 Requires-Dist: pillow (>=4.1.1)
 Provides-Extra: scipy
 Requires-Dist: scipy; extra == 'scipy'
