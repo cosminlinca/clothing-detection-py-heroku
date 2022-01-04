@@ -1,1 +1,1 @@
-web: gunicorn Clothing-Detection/file_upload:app --log-file -
+web: gunicorn Clothing-Detection/file_upload.py:app --log-file -
