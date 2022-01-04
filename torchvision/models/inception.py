@@ -13,7 +13,7 @@ model_urls = {
     'inception_v3_google': 'https://download.pytorch.org/models/inception_v3_google-1a9a5a14.pth',
 }
 
-_InceptionOuputs = namedtuple('InceptionOuputs', ['logits', 'aux_logits'])
+_InceptionOutputs = namedtuple('InceptionOutputs', ['logits', 'aux_logits'])
 
 
 def inception_v3(pretrained=False, progress=True, **kwargs):
@@ -142,12 +142,12 @@ class Inception3(nn.Module):
         # N x 2048 x 1 x 1
         x = F.dropout(x, training=self.training)
         # N x 2048 x 1 x 1
-        x = x.view(x.size(0), -1)
+        x = torch.flatten(x, 1)
         # N x 2048
         x = self.fc(x)
         # N x 1000 (num_classes)
         if self.training and self.aux_logits:
-            return _InceptionOuputs(x, aux)
+            return _InceptionOutputs(x, aux)
         return x
 
 
@@ -334,7 +334,7 @@ class InceptionAux(nn.Module):
         # Adaptive average pooling
         x = F.adaptive_avg_pool2d(x, (1, 1))
         # N x 768 x 1 x 1
-        x = x.view(x.size(0), -1)
+        x = torch.flatten(x, 1)
         # N x 768
         x = self.fc(x)
         # N x 1000

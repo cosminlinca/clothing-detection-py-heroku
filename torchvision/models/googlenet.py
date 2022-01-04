@@ -12,7 +12,7 @@ model_urls = {
     'googlenet': 'https://download.pytorch.org/models/googlenet-1378be20.pth',
 }
 
-_GoogLeNetOuputs = namedtuple('GoogLeNetOuputs', ['logits', 'aux_logits2', 'aux_logits1'])
+_GoogLeNetOutputs = namedtuple('GoogLeNetOutputs', ['logits', 'aux_logits2', 'aux_logits1'])
 
 
 def googlenet(pretrained=False, progress=True, **kwargs):
@@ -151,13 +151,13 @@ class GoogLeNet(nn.Module):
 
         x = self.avgpool(x)
         # N x 1024 x 1 x 1
-        x = x.view(x.size(0), -1)
+        x = torch.flatten(x, 1)
         # N x 1024
         x = self.dropout(x)
         x = self.fc(x)
         # N x 1000 (num_classes)
         if self.training and self.aux_logits:
-            return _GoogLeNetOuputs(x, aux2, aux1)
+            return _GoogLeNetOutputs(x, aux2, aux1)
         return x
 
 
@@ -208,7 +208,7 @@ class InceptionAux(nn.Module):
         # aux1: N x 512 x 4 x 4, aux2: N x 528 x 4 x 4
         x = self.conv(x)
         # N x 128 x 4 x 4
-        x = x.view(x.size(0), -1)
+        x = torch.flatten(x, 1)
         # N x 2048
         x = F.relu(self.fc1(x), inplace=True)
         # N x 2048
