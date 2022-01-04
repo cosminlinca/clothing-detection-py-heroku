@@ -1,23 +1,29 @@
 # Imports for clothing detection
 from datetime import datetime
 
-from .predictors.YOLOv3 import YOLOv3Predictor
-from .yolo.utils.utils import *
+from predictors.YOLOv3 import YOLOv3Predictor
+from yolo.utils.utils import *
+import gdown
+
 
 # Imports for brand detection
-from .logo_predictor import predictor
+from logo_predictor import predictor
 import os
 import numpy as np
 
-
 def prepare_clothing_detection():
+    global yolo_params
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(device.type)
     torch.cuda.empty_cache()
 
+    url = 'https://drive.google.com/uc?id=1Ur-YLA3awzZqOqPppvnUJRY6dwENwj0S'
+    output = 'yolo/weights/yolov3-df2_15000.weights'
+    gdown.download(url, output, quiet=False)
+
     # YOLO PARAMS
     yolo_df2_params = {"model_def": "yolo/df2cfg/yolov3-df2.cfg",
-                       "weights_path": "yolo/weights/yolov3-df2_15000.weights",
+                       "weights_path" : "yolo/weights/yolov3-df2_15000.weights",
                        "class_path": "yolo/df2cfg/df2.names",
                        "conf_thres": 0.8,
                        "nms_thres": 0.4,
@@ -25,7 +31,7 @@ def prepare_clothing_detection():
                        "device": device}
 
     yolo_modanet_params = {"model_def": "yolo/modanetcfg/yolov3-modanet.cfg",
-                           "weights_path": "yolo/weights/yolov3-modanet_last.weights",
+                           "weights_path" : "yolo/weights/yolov3-modanet_last.weights",
                            "class_path": "yolo/modanetcfg/modanet.names",
                            "conf_thres": 0.5,
                            "nms_thres": 0.4,

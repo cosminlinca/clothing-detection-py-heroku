@@ -1,5 +1,4 @@
 .git
-../yolo/weights/
 faster-retina/models/deepfashion2/*.pth
 faster-retina/models/modanet/*.pth
 __pycache__

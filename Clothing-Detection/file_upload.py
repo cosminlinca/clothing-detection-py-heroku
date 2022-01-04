@@ -9,8 +9,8 @@ from flask_cors import CORS, cross_origin
 from werkzeug.utils import secure_filename
 
 # Imports for brand detection
-from .logo_predictor import predictor
-from .wrapper import prepare_clothing_detection, track_result
+from logo_predictor import predictor
+from wrapper import prepare_clothing_detection, track_result
 from yolo.utils.utils import *
 
 # Firebase
@@ -21,8 +21,7 @@ config = {
     "authDomain": "clothingdetection.firebaseapp.com",
     "projectId": "clothingdetection",
     "databaseURL": "",
-    "storageBucket": "clothingdetection.appspot.com",
-    "serviceAccount": "serviceAccountKey.json"
+    "storageBucket": "clothingdetection.appspot.com"
 }
 firebase_storage = pyrebase.initialize_app(config)
 storage = firebase_storage.storage()
@@ -165,5 +164,5 @@ def index():
 
 
 if __name__ == "__main__":
-    application.debug = True
-    application.run(host='0.0.0.0')
+    application.debug = False
+    application.run()

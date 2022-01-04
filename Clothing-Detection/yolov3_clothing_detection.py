@@ -8,9 +8,9 @@
 
 import os
 
-from .predictors.YOLOv3 import YOLOv3Predictor
-from .yolo.utils.utils import *
-from .logo_predictor import predictor
+from predictors.YOLOv3 import YOLOv3Predictor
+from yolo.utils.utils import *
+from logo_predictor import predictor
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(device.type)
