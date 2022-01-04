@@ -1,6 +1,0 @@
-classes= 13
-train  = modanet/img/train.txt
-valid  = modanet/img/validation.txt
-names = modanet/modanet.names
-backup = backup/
-eval = coco
