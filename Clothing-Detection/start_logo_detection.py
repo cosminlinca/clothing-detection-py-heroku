@@ -4,7 +4,7 @@
 # - All weights and config files are downloaded
 # - Paper: LogoDet-3K: A Large-Scale Image Dataset for Logo Detection - https://arxiv.org/pdf/2008.05359.pdf
 
-from logo_predictor import predictor
+from .logo_predictor import predictor
 
 image_paths = ["tests/0001test.jpg", "tests/test06.jpg", "tests/test07.jpg"]
 

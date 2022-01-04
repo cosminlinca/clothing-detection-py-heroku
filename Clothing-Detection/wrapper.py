@@ -1,11 +1,11 @@
 # Imports for clothing detection
 from datetime import datetime
 
-from predictors.YOLOv3 import YOLOv3Predictor
-from yolo.utils.utils import *
+from .predictors.YOLOv3 import YOLOv3Predictor
+from .yolo.utils.utils import *
 
 # Imports for brand detection
-from logo_predictor import predictor
+from .logo_predictor import predictor
 import os
 import numpy as np
 

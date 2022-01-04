@@ -9,8 +9,8 @@ from flask_cors import CORS, cross_origin
 from werkzeug.utils import secure_filename
 
 # Imports for brand detection
-from logo_predictor import predictor
-from wrapper import prepare_clothing_detection, track_result
+from .logo_predictor import predictor
+from .wrapper import prepare_clothing_detection, track_result
 from yolo.utils.utils import *
 
 # Firebase
